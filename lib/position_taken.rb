@@ -13,7 +13,8 @@ elsif board[index] == "O"
 elsif board[index] == ""
  return false 
  
- 
+ else 
+   return false 
   
 end 
 end
